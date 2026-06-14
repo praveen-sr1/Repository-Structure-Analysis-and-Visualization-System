@@ -1,0 +1,4 @@
+# Keep the runtime data directory under version control while ignoring its
+# contents (the SQLite database is created here at runtime).
+*
+!.gitignore
